@@ -1,1 +1,2 @@
 Projects
+Registration Form
